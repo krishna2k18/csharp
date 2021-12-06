@@ -1,0 +1,112 @@
+csharp dotnetframeworl 40 -45 DAYS
+clr internals
+theoritical part -one day
+logical mind 
+30 questions 
+if else for loops once you complete
+csharp basics
+3 day on ward you cantake   5 daysto complete
+-- 8 days
+oops
+class  object 
+methods
+parameters what new 6 7 8 9 10
+polymorphism and abstraction
+properties 2.0,3.0.6.0
+methods 
+is-a
+has-a
+class design
+
+inheritance
+single multiple  hybrid and multiple not supported in
+csharp
+abstract classes
+interfaces
+collections
+non generic collectiosn
+generic
+generic class methods and interfaes and delegates
+delegates
+single multicast  and generic delegates
+files
+reading writing files  and serialization
+csharp compeltes here
+OOPS LABS 11 LABS
+bank case study i removed code 
+give  you  classes and methods
+
+sqlserver
+tabledesign
+dml ddl tcl staments
+joins nd  subqueries
+functions
+storedprocedures----5questions
+sp how to optimize sp
+errorhandling
+ado.net
+regist--------------->sqlserver
+sqlreader sqlcommand sqldatapter,datset
+---------------------------------------------
+entityframework
+databasefirst approch
+codefirstapproach   *************
+
+html js es5  jquery angular react vuejs
+
+angular2---->oops 
+ angular4,5,67,8,9,10 11 12 13
+---------------------------------------------
+ webapps
+asp.net core mvc
+croassplatform----->
+mvc5----manualy di 
+2016 17 ms---
+2018---->mvc core i built cross platform
+mvc model view controller
+model we use entityframework
+views--html-jquery
+controler--csharp collections interfaces
+objects  all we use
+secruity
+identity 
+login authentication authorization
+fb
+twitter
+gmail
+webapi-- wcf -webservices->rest
+webapi----consume any client tab mobile or laptop
+entityframework
+di
+signlar----realtime comminucation
+
+microservices------>CSHARP
+
+azure --------------CHSARP
+
+------
+azure devops
+github---
+azure repos
+azureboards
+ci/cd with azure repos
+azure204-DEV---dumps(NIIT)1000 SAME
+UDEMY SCOTTDUFFY
+CREDITCARD AND AZURE ACCOUNT
+
+990 SCORE
+
+azure devops AZ00+AZ104
+
+
+
+
+
+
+
+
+
+
+
+
+11 labs 
